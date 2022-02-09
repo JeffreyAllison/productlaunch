@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+
+*{
+    /* CSS HEX */
+--shadow-blue: #7884AAff;
+--light-periwinkle: #CDCEE1ff;
+--cool-grey: #9399BCff;
+--languid-lavender: #C9BDD6ff;
+--thistle: #DFC8DCff;
+
+}
+body {
+    background-color: var(--shadow-blue);
+    font-family: "Rowdies", cursive, bold;
+}
+img {
+    width: 100vw;
+}
+
+#info{
+    color: lightseagreen
+}
+
+#rinfo{
+    color: seagreen
+}
+
+#tinfo{
+    color: grey
+
+}
+#linfo{
+    color: peru
+}
+
